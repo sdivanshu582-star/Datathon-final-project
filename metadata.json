@@ -1,0 +1,6 @@
+{
+  "name": "Drishti-KSP Analytics",
+  "description": "Karnataka State Police Crime Intelligence & Analytical Platform connected to Supabase backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
